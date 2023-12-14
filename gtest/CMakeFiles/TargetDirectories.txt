@@ -1,0 +1,3 @@
+K:/Work_git/MFC_UnitTest/gtest/CMakeFiles/MFC_UnitTest.dir
+K:/Work_git/MFC_UnitTest/gtest/CMakeFiles/edit_cache.dir
+K:/Work_git/MFC_UnitTest/gtest/CMakeFiles/rebuild_cache.dir
